@@ -1,3 +1,5 @@
+package operacoes;
+
 public class Operacoes {
 
     public int soma (int x, int y){
@@ -15,5 +17,5 @@ public class Operacoes {
     public int div (int x, int y){
         return x / y;
     }
-    
+
 }
